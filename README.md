@@ -1,6 +1,6 @@
 # JaKPoT-Sudo
 
-I'm building AI-powered tools for national security and defense compliance — the kind of work that used to take analysts days and now takes minutes. My focus is on problems that are real, funded, and underserved by existing software: personnel security reporting, acquisition intelligence, supply chain risk, ATO documentation, influence operation detection, and beneficial ownership tracing. Every project in this portfolio is deployed, live, and demo-ready.
+I'm building AI-powered tools for national security and defense compliance — the kind of work that used to take analysts days and now takes minutes. My focus is on problems that are real, funded, and underserved by existing software: personnel security reporting, acquisition intelligence, supply chain risk, ATO documentation, influence operation detection, beneficial ownership tracing, and foreign investment screening. Every project in this portfolio is deployed, live, and demo-ready.
 
 ---
 
@@ -14,6 +14,7 @@ I'm building AI-powered tools for national security and defense compliance — t
 | [ATO Accelerator](https://github.com/JaKPoT-Sudo/ato-accelerator) | Categorizes systems under FIPS 199, maps them to NIST 800-53 baselines, and drafts System Security Plan narratives control by control | [ato-accelerator.onrender.com](https://ato-accelerator.onrender.com) |
 | [SENTINEL](https://github.com/JaKPoT-Sudo/sentinel-io-engine) | Detects coordinated influence operations by clustering adversary narratives and classifying TTPs against the DISARM framework | [sentinel-io-engine.onrender.com](https://sentinel-io-engine.onrender.com) |
 | [GhostTrace](https://github.com/JaKPoT-Sudo/ghosttrace) | Pulls SEC EDGAR beneficial ownership filings, extracts every owner and subsidiary with Claude, and scores the structure for shell-company and sanctions risk | [ghosttrace-aose.onrender.com](https://ghosttrace-aose.onrender.com) |
+| [CFIUS Screener](https://github.com/JaKPoT-Sudo/cfius-screener) | Screens foreign-investment transactions for CFIUS jurisdiction and mandatory-declaration triggers under 31 CFR Part 800, with every determination citing the regulation that drives it | [cfius-screener.onrender.com](https://cfius-screener.onrender.com) |
 
 ---
 
