@@ -4,7 +4,7 @@ I'm building AI-powered tools for national security and defense compliance — t
 
 ---
 
-## Portfolio
+## Defense & National Security Compliance Suite
 
 | Project | What it does | Live demo |
 |---|---|---|
@@ -18,4 +18,12 @@ I'm building AI-powered tools for national security and defense compliance — t
 
 ---
 
-**Stack:** Python · FastAPI · Claude (Anthropic) · SQLAlchemy · NetworkX · Jinja2 · Render
+## AI Systems Research
+
+| Project | What it does |
+|---|---|
+| [race-condition](https://github.com/JaKPoT-Sudo/race-condition) | Multi-agent strategic simulator studying how individually rational Claude-backed agents produce collectively bad outcomes under competitive pressure — two scenarios: Capability Race and Escalation Ladder |
+
+---
+
+**Stack:** Python · FastAPI · Claude (Anthropic) · SQLAlchemy · NetworkX · PyYAML · Jinja2 · Render
