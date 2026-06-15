@@ -15,6 +15,7 @@ I'm building AI-powered tools for national security and defense compliance — t
 | [SENTINEL](https://github.com/JakPot42/sentinel-io-engine) | Detects coordinated influence operations by clustering adversary narratives and classifying TTPs against the DISARM framework | [sentinel-io-engine.onrender.com](https://sentinel-io-engine.onrender.com) |
 | [GhostTrace](https://github.com/JakPot42/ghosttrace) | Pulls SEC EDGAR beneficial ownership filings, extracts every owner and subsidiary with Claude, and scores the structure for shell-company and sanctions risk | [ghosttrace-aose.onrender.com](https://ghosttrace-aose.onrender.com) |
 | [CFIUS Screener](https://github.com/JakPot42/cfius-screener) | Screens foreign-investment transactions for CFIUS jurisdiction and mandatory-declaration triggers under 31 CFR Part 800, with every determination citing the regulation that drives it | [cfius-screener.onrender.com](https://cfius-screener.onrender.com) |
+| [DIB Monitor](https://github.com/JakPot42/dib-monitor) | Reads SEC 10-K filings with Claude to extract debt terms and covenant language, runs a Monte Carlo GBM distress simulation (P(distress) at 1/2/3 years), and screens 13F ownership for CFIUS-relevant foreign connections — outputs a Supplier Financial Resilience Report | [dib-monitor.onrender.com](https://dib-monitor.onrender.com) |
 
 ---
 
