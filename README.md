@@ -23,6 +23,7 @@ I'm building AI-powered tools for national security and defense compliance — t
 | Project | What it does |
 |---|---|
 | [race-condition](https://github.com/JakPot42/race-condition) | Multi-agent strategic simulator studying how individually rational Claude-backed agents produce collectively bad outcomes under competitive pressure — two scenarios: Capability Race and Escalation Ladder |
+| [redteam-eval](https://github.com/JakPot42/redteam-eval) | CLI + pip-installable LLM red-teaming and evaluation framework calibrated for high-stakes government and regulatory use cases — adversarial test suites, SQLite regression tracking, and visual dashboards |
 
 ---
 
